@@ -16,7 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-26233a?labelColor=191724&style=for-the-badge&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-26233a?labelColor=191724&style=for-the-badge&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-26233a?labelColor=191724&style=for-the-badge&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-26233a?labelColor=191724&style=for-the-badge&logo=postgresql)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-26233a?labelColor=191724&style=for-the-badge&logo=gnu-bash)&nbsp;
 
 ### Frameworks & Libraries
